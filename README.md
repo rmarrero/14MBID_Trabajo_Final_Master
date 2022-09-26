@@ -1,5 +1,5 @@
 ## 14MBID Trabajo Final de Master
-### <center> Desarrollo de un modelo predictivo en base a sintomatología de salud mental que derivan en ansiedad y depresión <center>
+### <center> Desarrollo de un modelo predictivo en base a variables sociodemográficas y de salud que derivan en ansiedad y depresión <center>
 ### <center> **Autor:** Ricardo Marrero Carrión <center>
 
 Este repositorio contiene:
