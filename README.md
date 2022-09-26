@@ -7,8 +7,8 @@ Evaluar y analizar un conjunto de indicadores de salud, factores sociales y de e
 
 ## Contenido del Repositorio
   * Conjunto de datos utilizado en el proyecto (Datasets)
-  * Notebook con el análisis de variables del año 2014 (14MBID_RicardoMarreroCarrion_53995737V_Parte1_2014)
-  * Notebook con el análisis de variables del año 2020 (14MBID_RicardoMarreroCarrion_53995737V_Parte1_2020)
+  * Notebook con el análisis de variables del año 2014 (14MBID_Parte1_2014)
+  * Notebook con el análisis de variables del año 2020 (14MBID_Parte1_2020)
   * Funciones complementarias al proyecto (funciones_adicionales)
 
 ### Referencias
