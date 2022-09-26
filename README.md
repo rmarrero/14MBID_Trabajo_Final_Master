@@ -6,9 +6,9 @@
 Evaluar y analizar un conjunto de indicadores de salud, factores sociales y de estilo de vida que permita la detección temprana de la depresión y la ansiedad. De esta forma, se pretende aportar un método que facilite a los profesionales de la salud identificar la prevalencia de estas enfermedades en la población.
 
 ## Contenido del Repositorio
-  * Conjunto de datos utilizado en el proyecto
-  * Notebook con el análisis de variables del año 2014
-  * Notebook con el análisis de variables del año 2020
+  * Conjunto de datos utilizado en el proyecto (Datasets)
+  * Notebook con el análisis de variables del año 2014 (14MBID_RicardoMarreroCarrion_53995737V_Parte1_2014.ipynb)
+  * Notebook con el análisis de variables del año 2020 (14MBID_RicardoMarreroCarrion_53995737V_Parte1_2020)
   * Funciones complementarias al proyecto (funciones_adicionales)
 
 ### Referencias
