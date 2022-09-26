@@ -6,7 +6,6 @@
 Evaluar y analizar un conjunto de indicadores de salud, factores sociales y de estilo de vida que permita la detección temprana de la depresión y la ansiedad. De esta forma, se pretende aportar un método que facilite a los profesionales de la salud identificar la prevalencia de estas enfermedades en la población.
 
 ## Contenido del repositorio
-En este repositorio se pueden visualizar los Notebooks elaborados durante el desarrollo del Trabajo Final de Master
   * Fichero .ipynb con el código utilizado en el Proceso KDD
   * Fichero .py con funciones asociadas al código anterior
   * Conjunto de datos utilizado
