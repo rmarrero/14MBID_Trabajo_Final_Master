@@ -7,7 +7,8 @@ Evaluar y analizar un conjunto de indicadores de salud, factores sociales y de e
 
 ## Contenido del Repositorio
   * Conjunto de datos utilizado en el proyecto
-  * 
+  * Notebook con el análisis de variables del año 2014
+  * Notebook con el análisis de variables del año 2020
   * Funciones complementarias al proyecto (funciones_adicionales)
 
 ### Referencias
