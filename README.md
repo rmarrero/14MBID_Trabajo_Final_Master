@@ -13,6 +13,7 @@ Evaluar y analizar un conjunto de indicadores de salud, factores sociales y de e
   * Pruebas del modelo con los datos del 2014 (Pruebas_2014)
   * Notebooks con pruebas iniciales sobre conjuntos desbalanceados (pruebas_adicionales)
   * Funciones complementarias al proyecto (funciones_adicionales)
+  * Modelo de datos en Power BI con los informes y visualizaciones (Visualizaciones)
 
 ### Referencias
 Koehrsen, W. (2018). feature-selector: Feature selector is a tool for dimensionality reduction of machine learning datasets. GitHub. https://github.com/WillKoehrsen/feature-selector.git
